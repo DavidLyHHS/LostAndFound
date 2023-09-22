@@ -1,0 +1,73 @@
+/* Add a black background color to the top navigation */
+.nav {
+    background-color: #8c1c13;
+    overflow: hidden;
+    padding: 0px;
+    margin: -20px;
+  }
+
+.nav img {
+  width: 150px;
+  margin-top: 20px;
+  float: left;
+}
+
+/* Style the links inside the navigation bar */
+.nav a {
+    font-family: Helvetica;
+    font-weight: bold;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 80px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+.nav a :hover {
+  border-bottom: 4000px solid #f2f2f2;
+}
+
+.active {
+  color:green;
+}
+
+.main {
+  color: black;
+  background-color: white;
+  margin-left: -10px;
+  margin-right: -20px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.linked {
+  background-color: red;
+  padding:20px;
+  border: 20px solid blue;
+}
+
+.main img {
+  width:220px;
+  margin-left: 250px;
+  margin-top:-500px;
+}
+
+html {
+  background-image: url(Images/red.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}
+
+head img {
+  margin-left: -25px;
+}
+
+.main h1 {
+  font-size: 63px;
+}
+
+.main h2, h3 {
+  margin-left: 500px
+}
