@@ -15,7 +15,7 @@
         <a class="active" href="home.php">HOME</a>
         <a href="aboutus.php">ABOUT US</a>
         <a href="request.php">REQUEST LOST ITEM</a>
-        <a href="contactus.php">CONTACT US</a>
+        <a href="viewDetails.php">VIEW DETAILS</a>
       </div>
 </head>
 </body>
@@ -106,9 +106,6 @@ if(isset($_POST['edit_btn'])){ // iset() check whether the value is there or not
 
 }
 ?>
-
-</div>
-<a class="btn btn-primary" href="viewDetails.php">View updated info</a>
 
 <!-- https://www.youtube.com/watch?v=S1GdH8sd9og -->
 </body>

@@ -15,7 +15,7 @@
         <a href="home.php">HOME</a>
         <a href="aboutus.php">ABOUT US</a>
         <a class="active" href="request.php">REQUEST LOST ITEM</a>
-        <a href="contactus.php">CONTACT US</a>
+        <a href="viewDetails.php">VIEW DETAILS</a>
       </div>
 </head>
 </body>

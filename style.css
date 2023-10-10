@@ -51,7 +51,7 @@
 .main img {
   width:220px;
   margin-left: 390px;
-  margin-top:-500px;
+  margin-top:-230px;
 }
 
 html {
@@ -73,4 +73,21 @@ head img {
 
 .main h2, h3 {
   margin-left: 600px
+}
+
+.about h2 {
+  margin-left: 700px;
+}
+
+.about h1 {
+  margin-left: 900px;
+}
+
+.about p {
+  margin-left: 700px;
+}
+
+.about img {
+  margin-top: -80px;
+  margin-left: -1000px;
 }
