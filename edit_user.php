@@ -7,6 +7,20 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 </head>
+
+<body>
+<head>
+  <div class="nav">
+        <img src="images\hhs trans.PNG" alt="doritos">
+        <a class="active" href="home.php">HOME</a>
+        <a href="aboutus.php">ABOUT US</a>
+        <a href="request.php">REQUEST LOST ITEM</a>
+        <a href="contactus.php">CONTACT US</a>
+      </div>
+</head>
+</body>
+<body>
+  
 <body>
     <br>
     <br>
