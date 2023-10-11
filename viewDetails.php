@@ -10,7 +10,7 @@
 
 <head>
     <div class="nav">
-        <img src="images\hhs trans.PNG" alt="doritos">
+        <img src="images\hhs trans.PNG" alt="Henderson High School logo">
         <a href="home.php">HOME</a>
         <a href="aboutus.php">ABOUT US</a>
         <a href="request.php">REQUEST LOST ITEM</a>

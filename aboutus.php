@@ -3,6 +3,7 @@
 <!-- Metas to improve accessibility -->
 <html lang="en">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="David Ly">
@@ -19,15 +20,17 @@
         <a href="home.php">HOME</a>
         <a class="active" href="aboutus.php">ABOUT US</a>
         <a href="request.php">REQUEST LOST ITEM</a>
-        <a href="contactus.php">CONTACT US</a>
+        <a href="viewDetails.php">VIEW DETAILS</a>
       </div>
 </head>
 </body>
 <body>
 
-<div class="main"> 
-  <h1 id="test">Welcome students to Henderson High School lost and found!</h1>
-  <p>Go to 'Request Item' link at top for missing items.</p>
+<div class="about"> 
+  <h1>ABOUT US</h1>
+  <h2>Henderson High School Lost and Found</h2>
+  <p>Our school houses a variety of items left behind by students<br>and staff, so our lost and found website allows individuals to reclaim their lost property.<br>Students and staff members are encouraged to check the<br>lost and found regularly to reclaim their belongings.<br>
+  <img src="images/free2.jpeg">
 </div>
 
 </body>

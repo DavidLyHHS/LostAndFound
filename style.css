@@ -4,6 +4,7 @@
     overflow: hidden;
     padding: 0px;
     margin: -20px;
+    position: sticky;
   }
 
 .nav img {
@@ -11,6 +12,7 @@
   margin-top: 20px;
   float: left;
   margin-left: 20px;
+  position: sticky;
 }
 
 /* Style the links inside the navigation bar */
@@ -23,6 +25,7 @@
     padding: 80px 16px;
     text-decoration: none;
     font-size: 17px;
+    position: sticky;
   }
 
 .nav a :hover {
@@ -80,6 +83,7 @@ head img {
 }
 
 .about h1 {
+  padding-top: 100px;
   margin-left: 900px;
 }
 
@@ -88,6 +92,10 @@ head img {
 }
 
 .about img {
-  margin-top: -80px;
-  margin-left: -1000px;
+  margin-top: -240px;
+  margin-left: -500px;
+  height: 400px;
+  padding-top: -300px;
+  padding-right: 40px;
+  padding-bottom: 40px;
 }
